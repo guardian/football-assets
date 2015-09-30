@@ -1,0 +1,4 @@
+for f in `ls *.png`
+do
+    convert $f -resize 120x120\>  "120/"$f".png"
+done
