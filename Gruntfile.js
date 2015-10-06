@@ -6,7 +6,7 @@ module.exports = function(grunt) {
     // Project configuration.
     grunt.initConfig({
         image_resize: {
-            resize: {
+            resize120: {
                 options: {
                     width: 120,
                     height: '',
@@ -14,6 +14,15 @@ module.exports = function(grunt) {
                 },
                 src: 'source/crests/*.png',
                 dest: 'build/crests/120/'
+            },
+            resize60: {
+                options: {
+                    width: 60,
+                    height: '',
+                    overwrite: true
+                },
+                src: 'source/crests/*.png',
+                dest: 'build/crests/60/'
             }
         },
         pngmin: {
@@ -46,7 +55,7 @@ module.exports = function(grunt) {
                     src: ['**/*.png'],
                     dest: 'football',
                     params: {
-                        CacheControl: 'max-age=60'
+                        CacheControl: 'max-age=604800'
                     }
                 }]
             }
