@@ -1,7 +1,6 @@
 /*global module:false*/
 module.exports = function(grunt) {
     require('jit-grunt')(grunt);
-    var aws = grunt.file.readJSON('aws-keys.json');
 
     // Project configuration.
     grunt.initConfig({
@@ -35,14 +34,13 @@ module.exports = function(grunt) {
                     expand: true,
                     src: '**/*.png',
                     cwd: 'build',
-                    dest: 'build' 
+                    dest: 'build'
                 }]
             }
         },
         aws_s3: {
             options: {
-                accessKeyId: aws.AWSAccessKeyID,
-                secretAccessKey: aws.AWSSecretKey,
+                awsProfile: 'frontend',
                 region: 'us-east-1'
             },
             production: {
@@ -53,10 +51,7 @@ module.exports = function(grunt) {
                     expand: true,
                     cwd: 'build',
                     src: ['**/*.png'],
-                    dest: 'football',
-                    params: {
-                        CacheControl: 'max-age=604800'
-                    }
+                    dest: 'football'
                 }]
             }
         },
