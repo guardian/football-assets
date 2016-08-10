@@ -28,6 +28,7 @@ module.exports = function(grunt) {
             compile: {
                 options: {
                     force: true,
+                    quality: '45-85',
                     ext: '.png'
                 },
                 files: [{
