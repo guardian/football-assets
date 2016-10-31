@@ -4,6 +4,22 @@ module.exports = function(grunt) {
 
     // Project configuration.
     grunt.initConfig({
+        copy: {
+            main: {
+                files: [
+                    {
+                        // Copy the source files directly into the build folder
+                        expand: true,
+                        cwd: 'source/crests/',
+                        src: ['*'], 
+                        dest: 'build/crests'
+                    }
+                ],
+                options: {
+                    timestamp: true
+                }
+            },
+        },
         image_resize: {
             resize120: {
                 options: {
@@ -59,5 +75,6 @@ module.exports = function(grunt) {
     });
 
     // Tasks
-    grunt.registerTask('default', ['image_resize', 'pngmin', 'aws_s3']);
+    grunt.registerTask('default', ['copy', 'image_resize', 'pngmin', 'aws_s3']);
+    
 };
