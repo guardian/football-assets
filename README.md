@@ -7,7 +7,7 @@ The source of all football assets used on The Guardian and scripts to easily com
 
 This requires ImageMagick, if you don't have it install with `brew install imagemagick`
 
-Then you'll need add your s3 keys. Duplicate/rename the `aws-keys.example.json` file to `aws-keys.json` and add your s3 keys.
+Make sure you have `frontend` Janus credentials.
 
 Get dependencies by running `npm install`. 
 
