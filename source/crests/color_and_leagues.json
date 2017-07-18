@@ -1,0 +1,858 @@
+export const leagues = [
+	{
+		"league": "Premier League",
+		"teams": ["Arsenal","Bournemouth", "Brighton", "Burnley", "Chelsea", "Crystal Palace", "Everton", "Huddersfield Town", "Leicester City", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Southampton", "Stoke City", "Swansea City", "Tottenham Hotspur", "Watford", "West Bromwich Albion", "West Ham United"]
+	},{
+		"league": "Serie A",
+		"teams": ["Atalanta", "Benevento", "Bologna", "Cagliari", "Chievo", "Crotone", "Fiorentina", "Genoa", "Inter", "Juventus", "Lazio", "Milan", "Napoli", "Roma", "Sampdoria", "Sassuolo", "SPAL", "Torino", "Udinese", "Verona" ]
+	},{
+		"league": "Bundesliga",
+		"teams": ["Augsburg", "Bayer Leverkusen", "Bayern Munich", "Borussia Dortmund", "Borussia Mönchengladbach", "FC Cologne", "Eintracht Frankfurt", "Freiburg", "Hamburg", "Hannover 96", "Hertha Berlin", "Hoffenheim", "Mainz 05", "RB Leipzig", "Schalke 04", "Stuttgart", "Werder Bremen", "Wolfsburg"]
+	},{
+		"league": "Ligue 1",
+		"teams": ["Amiens","Angers","Bordeaux", "Caen", "Dijon", "Guingamp", "Lille", "Lyon", "Marseille", "Metz", "Monaco", "Montpellier",  "Nantes", "Nice", "Paris Saint-Germain", "Rennes", "Saint-Etienne","Strasbourg", "Toulouse", "Troyes"  ]
+	},{
+		"league": "La Liga",
+		"teams": ["Alavés", "Athletic Bilbao", "Atlético Madrid", "Barcelona", "Celta Vigo", "Deportivo La Coruña", "Eibar", "Espanyol", "Getafe", "Girona", "Las Palmas", "Leganés", "Levante", "Málaga", "Osasuna", "Real Betis", "Real Madrid", "Real Sociedad", "Sevilla", "Valencia", "Villarreal"]
+	}
+]
+
+
+export const colors =   [ 
+
+{
+    "teamID": "1006",
+      "name": "Arsenal",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["b80200",          "EFEFEF",           "9C824A"]
+    }
+  },
+  {
+    "teamID": "23",
+      "name": "Bournemouth",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["E62333",          "000000"]
+    }
+  },
+  {
+    "teamID": "6795",
+    "name": "Brighton",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["0054a6",          "EFEFEF",           "211E1E"]
+    }
+  },
+  {
+    "teamID": "70",
+      "name": "Burnley",
+    "league": "Premier League",
+    "colors": {
+     "hex"   :   [ "53162F",  "EFEFEF",   "8CCCE5",      "F9EC34"]
+    }
+  },
+  {
+    "teamID": "4",
+      "name": "Chelsea",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   [ "034694",  "EFEFEF","DBA111", "ED1C24"]
+    }
+  },
+  {
+    "teamID": "5",
+      "name": "Crystal Palace",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["C4122E", "EFEFEF", "1B458F",                    "A7A5A6"]
+    }
+  },
+  {
+    "teamID": "8",
+      "name": "Everton",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["274488", "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "56",
+      "name": "Huddersfield Town",
+    "league": "Premier League",
+    "colors": {
+       "hex"   :   ["0072ba",          "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "29",
+      "name": "Leicester City",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["0053A0", "EFEFEF" ]
+    }
+  },
+  {
+    "teamID": "9",
+      "name": "Liverpool",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   [  "D00027",    "EFEFEF",   "00A398",             "FEF667"]
+    }
+  },
+  {
+    "teamID": "11",
+      "name": "Manchester City",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["98c5e9",          "222222",          "f4bc46"]
+    }
+  },
+  {
+    "teamID": "12",
+      "name": "Manchester United",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["DA020E",          "EFEFEF",           "000000"]
+    }
+  },
+  {
+    "teamID": "31",
+      "name": "Newcastle United",
+    "league": "Premier League",
+    "colors": {
+        "hex"   :    ["222222",         "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "18",
+      "name": "Southampton",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["ED1A3B",          "EFEFEF",           "FFC20E"]
+    }
+  },
+  {
+    "teamID": "38",
+    "name": "Stoke City",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["E03A3E",          "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "65",
+    "name": "Swansea City",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   [ "EFEFEF" , "000000"]
+    }
+  },
+  {
+    "teamID": "19",
+    "name": "Tottenham Hotspur",
+    "league": "Premier League",
+    "colors": {
+       "hex"   :   ["001C58" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "41",
+    "name": "Watford",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :    ["222222", "FBEE23", "ED2127"]
+    }
+  },
+  {
+    "teamID": "42",
+    "name": "West Bromwich Albion",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["091453" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "43",
+    "name": "West Ham United",
+    "league": "Premier League",
+    "colors": {
+      "hex"   :   ["60223B", "EFEFEF", "5299C6"]
+    }
+  },
+
+    
+
+
+  {
+    "teamID": "26476",
+    "name": "Alavés",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["0490da" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26313",
+    "name": "Athletic Bilbao",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["AA0000" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26305",
+    "name": "Atlético Madrid",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["2a2f5e" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26300",
+    "name": "Barcelona",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["a50044" , "edbb00"]
+    }
+  },
+  {
+    "teamID": "26302",
+    "name": "Celta Vigo",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["9dd1ff" , "222222"]
+    }
+  },
+  {
+    "teamID": "26309",
+      "name": "Deportivo La Coruña",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["00a8ff" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "37452",
+    "name": "Eibar",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["8d060d" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26306",
+    "name": "Espanyol",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["1e6bc0" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "na",
+    "name": "Getafe",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["175ea2" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "na",
+    "name": "Girona",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["cd2534" , "EFEFEF"]
+    }
+  },
+  
+  {
+    "teamID": "27804",
+    "name": "Las Palmas",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["f4c600" , "222222"]
+    }
+  },
+  {
+    "teamID": "27812",
+    "name": "Leganés",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["094f90" , "EFEFEF"]
+    }
+  },
+
+  {
+    "teamID": "37454",
+    "name": "Levante",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["094f90" , "fac400"]
+    }
+  },
+  {
+    "teamID": "27826",
+    "name": "Málaga",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["00489a" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27152",
+    "name": "Osasuna",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["d91a21" , "DCDCDC"]
+    }
+  },
+  {
+    "teamID": "26314",
+    "name": "Real Betis",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["00954c" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26303",
+    "name": "Real Madrid",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "290a47"]
+    }
+  },
+  {
+    "teamID": "26308",
+    "name": "Real Sociedad",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["143c8b" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27821",
+      "name": "Sevilla",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["c81528" , "222222"]
+    }
+  },
+  
+  {
+    "teamID": "26316",
+    "name": "Valencia",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "c81528"]
+    }
+  },
+  {
+    "teamID": "38295",
+    "name": "Villarreal",
+    "league": "La Liga",
+    "colors": {
+      "hex"   :   ["222222" , "ffff00"]
+    }
+  },
+
+
+
+  {
+    "teamID": "26368",
+    "name": "Milan",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["222222" , "dd1627"]
+    }
+  },
+  {
+    "teamID": "26364",
+    "name": "Atalanta",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["0071bc" , "222222"]
+    }
+  },
+
+  {
+    "teamID": "na",
+    "name": "Benevento",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["e41a2b" , "f4c600"]
+    }
+  },
+
+  
+  {
+    "teamID": "26371",
+    "name": "Bologna",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["ec4336" , "FFFFFF"]
+    }
+  },
+  {
+    "teamID": "26474",
+    "name": "Cagliari",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["b01028" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27611",
+    "name": "Chievo",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["1e3c94" , "ffde15"]
+    }
+  },
+  {
+    "teamID": "38624",
+      "name": "Crotone",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["1b2c57" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27648",
+    "name": "Verona",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["26375f" , "FFCC00"]
+    }
+  },
+  {
+    "teamID": "26366",
+    "name": "Fiorentina",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["420a92" , "b59c7a"]
+    }
+  },
+  {
+    "teamID": "6894",
+    "name": "Genoa",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["00295b" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "6136",
+    "name": "Inter",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["0769aa" , "222222"]
+    }
+  },
+  {
+    "teamID": "26359",
+    "name": "Juventus",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["222222" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26362",
+    "name": "Lazio",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["b2d2fe" , "222222"]
+    }
+  },
+  {
+    "teamID": "26370",
+    "name": "Napoli",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["41b2f8" , "222222"]
+    }
+  },
+  {
+    "teamID": "na",
+    "name": "Pescara",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["4bcfe5" , "222222"]
+    }
+  },
+  
+
+  {
+    "teamID": "26357",
+    "name": "Roma",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["8c1223" , "f89728"]
+    }
+  },
+
+  {
+    "teamID": "26361",
+    "name": "Sampdoria",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["0089ca" , "FFFFFF"]
+    }
+  },
+  {
+    "teamID": "53908",
+    "name": "Sassuolo",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["222222" , "33b65b"]
+    }
+  },
+  {
+    "teamID": "na",
+    "name": "SPAL",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["EEEEEE" , "00a3dd"]
+    }
+  },
+
+  {
+    "teamID": "27038",
+    "name": "Torino",
+    "league": "Serie A",
+    "colors": {
+      "hex"   :   ["55151a" , "FFFFFF"]
+    }
+  },
+  {
+    "teamID": "26360",
+    "name": "Udinese",
+    "league": "Serie A",
+    "colors": {
+    "hex"   :   ["222222" , "EFEFEF"]
+    }
+  },
+
+
+
+
+  {
+    "teamID": "32656",
+    "name": "Augsburg",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "ba3733"]
+    }
+  },
+  {
+    "teamID": "26256",
+    "name": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["222222" , "e60000"]
+    }
+  },
+  {
+    "teamID": "26247",
+    "name": "Bayern Munich",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["ed1248" , "FFFFFF"]
+    }
+  },
+  {
+    "teamID": "26261",
+    "name": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["222222" , "fde100"]
+    }
+  },
+  {
+    "teamID": "26259",
+    "name": "Borussia M'gladbach",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["222222" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26260",
+    "name": "FC Cologne",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "ed1c24"]
+    }
+  },
+  {
+    "teamID": "26250",
+    "name": "Stuttgart",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["DCDCDC" , "bd0b16"]
+    }
+  },
+  {
+    "teamID": "45562",
+    "name": "Eintracht Braunschweig",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["DCDCDC" , "222222"]
+    }
+  },
+  {
+    "teamID": "26460",
+    "name": "Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "222222"]
+    }
+  },
+  {
+    "teamID": "32309",
+    "name": "Hannover 96",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["9e040d" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26254",
+    "name": "Hamburg",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["0a3f86" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26263",
+    "name": "Hertha Berlin",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["005ca9" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "32676",
+    "name": "Mainz 05",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["AA0000" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "61019",
+    "name": "RB Leipzig",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "AA0000"]
+    }
+  },
+  {
+    "teamID": "26461",
+    "name": "Freiburg",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["fc0d1b" , "222222"]
+    }
+  },
+  {
+    "teamID": "26249",
+    "name": "Schalke 04",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["0000AA" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "48490",
+    "name": "Hoffenheim",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["1c63b7" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26252",
+    "name": "Werder Bremen",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["1d9053" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26257",
+    "name": "Wolfsburg",
+    "league": "Bundesliga",
+    "colors": {
+      "hex"   :   ["65b32e" , "EFEFEF"]
+    }
+  },
+
+
+
+  {
+    "teamID": "32839",
+    "name": "Angers",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["222222" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "na",
+    "name": "Amiens",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["333333" , "FFFFFF"]
+    }
+  },
+  
+  {
+    "teamID": "26340",
+    "name": "Bordeaux",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["0000AA" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27435",
+    "name": "Caen",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["AA0000" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "28023",
+    "name": "Dijon",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["d3072a" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26347",
+    "name": "Guingamp",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["222222" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27372",
+    "name": "Lille",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "d3072a"]
+    }
+  },
+  
+  {
+    "teamID": "26345",
+    "name": "Lyon",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "182472"]
+    }
+  },
+  {
+    "teamID": "26344",
+    "name": "Marseille",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["EFEFEF" , "009ddc"]
+    }
+  },
+  {
+    "teamID": "6832",
+    "name": "Metz",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["7e0207" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26343",
+    "name": "Monaco",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["AA0000" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26351",
+    "name": "Montpellier",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["ff8000" , "222222"]
+    }
+  },
+  {
+    "teamID": "26350",
+    "name": "Nantes",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["ffd600" , "222222"]
+    }
+  },
+  {
+    "teamID": "27462",
+    "name": "Nice",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["222222" , "d2121d"]
+    }
+  },
+  {
+    "teamID": "26339",
+    "name": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["333366" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26349",
+    "name": "Rennes",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["e13327" , "222222"]
+    }
+  },
+  {
+    "teamID": "27408",
+    "name": "Saint-Etienne",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["006a32" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "na",
+    "name": "Strasbourg",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["00adef" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "26346",
+    "name": "Toulouse",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["560d7e" , "EFEFEF"]
+    }
+  },
+  {
+    "teamID": "27439",
+    "name": "Troyes",
+    "league": "Ligue 1",
+    "colors": {
+      "hex"   :   ["006eb2" , "EFEFEF"]
+    }
+  }
+
+]
