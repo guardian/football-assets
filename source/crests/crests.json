@@ -1,52 +1,52 @@
 { "crests": [ {
 		"paID": 26415,
 		"filename": "26415.png",
-		"team": "Aalborg_Fodbold"
+		"team": "Aalborg Fodbold"
 	},
 	{
 		"paID": 26287,
 		"filename": "26287.png",
-		"team": "KAA_Gent"
+		"team": "KAA Gent"
 	},
 	{
 		"paID": 93,
 		"filename": "93.png",
-		"team": "Aberdeen_FC"
+		"team": "Aberdeen FC"
 	},
 	{
 		"paID": 38298,
 		"filename": "38298.png",
-		"team": "AC_Ajaccio"
+		"team": "AC Ajaccio"
 	},
 	{
 		"paID": 26368,
 		"filename": "26368.png",
-		"team": "AC_Milan"
+		"team": "AC Milan"
 	},
 	{
 		"paID": 8259,
 		"filename": "8259.png",
-		"team": "AC_Omonia"
+		"team": "AC Omonia"
 	},
 	{
 		"paID": 1204,
 		"filename": "1204.png",
-		"team": "Accrington_Stanley_FC"
+		"team": "Accrington Stanley FC"
 	},
 	{
 		"paID": 26366,
 		"filename": "26366.png",
-		"team": "ACF_Fiorentina"
+		"team": "ACF Fiorentina"
 	},
 	{
 		"paID": 23,
 		"filename": "23.png",
-		"team": "AFC_Bournemouth"
+		"team": "AFC Bournemouth"
 	},
 	{
 		"paID": 45987,
 		"filename": "45987.png",
-		"team": "AFC_Wimbledon"
+		"team": "AFC Wimbledon"
 	},
 	{
 		"paID": 45938,
@@ -56,32 +56,32 @@
 	{
 		"paID": 26320,
 		"filename": "26320.png",
-		"team": "Ajax_Amsterdam"
+		"team": "Ajax Amsterdam"
 	},
 	{
 		"paID": 103,
 		"filename": "103.png",
-		"team": "Albion_Rovers_FC"
+		"team": "Albion Rovers FC"
 	},
 	{
 		"paID": 104,
 		"filename": "104.png",
-		"team": "Alloa_Athletic_FC"
+		"team": "Alloa Athletic FC"
 	},
 	{
 		"paID": 17635,
 		"filename": "17635.png",
-		"team": "Annan_Athletic_FC"
+		"team": "Annan Athletic FC"
 	},
 	{
 		"paID": 6952,
 		"filename": "6952.png",
-		"team": "Anorthosis_FC"
+		"team": "Anorthosis FC"
 	},
 	{
 		"paID": 42007,
 		"filename": "42007.png",
-		"team": "Anzhi_Makhachkala"
+		"team": "Anzhi Makhachkala"
 	},
 	{
 		"paID": 32703,
@@ -91,42 +91,42 @@
 	{
 		"paID": 38343,
 		"filename": "38343.png",
-		"team": "Apollon_Limassol"
+		"team": "Apollon Limassol"
 	},
 	{
 		"paID": 116,
 		"filename": "116.png",
-		"team": "Arbroath_FC"
+		"team": "Arbroath FC"
 	},
 	{
 		"paID": 1006,
 		"filename": "1006.png",
-		"team": "Arsenal_FC"
+		"team": "Arsenal FC"
 	},
 	{
 		"paID": 41783,
 		"filename": "41783.png",
-		"team": "AS_Livorno_Calcio"
+		"team": "AS Livorno Calcio"
 	},
 	{
 		"paID": 26343,
 		"filename": "26343.png",
-		"team": "AS_Monaco"
+		"team": "AS Monaco"
 	},
 	{
 		"paID": 26357,
 		"filename": "26357.png",
-		"team": "AS_Roma"
+		"team": "AS Roma"
 	},
 	{
 		"paID": 27408,
 		"filename": "27408.png",
-		"team": "AS_Saint_Etienne"
+		"team": "AS Saint Etienne"
 	},
 	{
 		"paID": 41224,
 		"filename": "41224.png",
-		"team": "AS_Trencin"
+		"team": "AS Trencin"
 	},
 	{
 		"paID": 27461,
@@ -136,12 +136,12 @@
 	{
 		"paID": 54346,
 		"filename": "54346.png",
-		"team": "Asteras_tripolis"
+		"team": "Asteras tripolis"
 	},
 	{
 		"paID": 2,
 		"filename": "2.png",
-		"team": "Aston_Villa"
+		"team": "Aston Villa"
 	},
 	{
 		"paID": 58950,
@@ -156,7 +156,7 @@
 	{
 		"paID": 26305,
 		"filename": "26305.png",
-		"team": "Atletico_Madrid"
+		"team": "Atletico Madrid"
 	},
 	{
 		"paID": 48179,
@@ -166,17 +166,17 @@
 	{
 		"paID": 105,
 		"filename": "105.png",
-		"team": "Ayr_United_FC"
+		"team": "Ayr United FC"
 	},
 	{
 		"paID": 26464,
 		"filename": "26464.png",
-		"team": "AZ_Alkmaar"
+		"team": "AZ Alkmaar"
 	},
 	{
 		"paID": 21,
 		"filename": "21.png",
-		"team": "Barnsley_FC"
+		"team": "Barnsley FC"
 	},
 	{
 		"paID": 38272,
@@ -186,22 +186,17 @@
 	{
 		"paID": 26256,
 		"filename": "26256.png",
-		"team": "Bayer_04_Leverkusen"
+		"team": "Bayer Leverkusen"
 	},
 	{
 		"paID": 43255,
 		"filename": "43255.png",
-		"team": "BeroeLogo"
+		"team": "Beroe"
 	},
 	{
 		"paID": 117,
 		"filename": "117.png",
-		"team": "Berwick_Rangers"
-	},
-	{
-		"paID": 26269,
-		"filename": "26269.png",
-		"team": "Besiktas_JK"
+		"team": "Berwick Rangers"
 	},
 	{
 		"paID": 38267,
@@ -211,22 +206,22 @@
 	{
 		"paID": 45,
 		"filename": "45.png",
-		"team": "Birmingham_City_FC"
+		"team": "Birmingham City FC"
 	},
 	{
 		"paID": 26453,
 		"filename": "26453.png",
-		"team": "Bk_hacken"
+		"team": "Bk hacken"
 	},
 	{
 		"paID": 22,
 		"filename": "22.png",
-		"team": "Blackburn_Rovers"
+		"team": "Blackburn Rovers"
 	},
 	{
 		"paID": 46,
 		"filename": "46.png",
-		"team": "Blackpool_FC"
+		"team": "Blackpool FC"
 	},
 	{
 		"paID": 26371,
@@ -236,57 +231,57 @@
 	{
 		"paID": 47,
 		"filename": "47.png",
-		"team": "Bolton_Wanderers_FC"
+		"team": "Bolton Wanderers FC"
 	},
 	{
 		"paID": 26261,
 		"filename": "26261.png",
-		"team": "Borussia_Dortmund"
+		"team": "Borussia Dortmund"
 	},
 	{
 		"paID": 26259,
 		"filename": "26259.png",
-		"team": "Borussia_Monchengladbach"
+		"team": "Borussia Monchengladbach"
 	},
 	{
 		"paID": 24,
 		"filename": "24.png",
-		"team": "Bradford_City_AFC"
+		"team": "Bradford City AFC"
 	},
 	{
 		"paID": 118,
 		"filename": "118.png",
-		"team": "Brechin_City_FC"
+		"team": "Brechin City FC"
 	},
 	{
 		"paID": 38325,
 		"filename": "38325.png",
-		"team": "Breidablik_UBK"
+		"team": "Breidablik UBK"
 	},
 	{
 		"paID": 48,
 		"filename": "48.png",
-		"team": "Brentford_FC"
+		"team": "Brentford FC"
 	},
 	{
 		"paID": 6795,
 		"filename": "6795.png",
-		"team": "Brighton_&_Hove_Albion"
+		"team": "Brighton & Hove Albion"
 	},
 	{
 		"paID": 49,
 		"filename": "49.png",
-		"team": "Bristol_City_FC"
+		"team": "Bristol City FC"
 	},
 	{
 		"paID": 50,
 		"filename": "50.png",
-		"team": "Bristol_Rovers_F.C"
+		"team": "Bristol Rovers F.C"
 	},
 	{
 		"paID": 70,
 		"filename": "70.png",
-		"team": "Burnley_FC"
+		"team": "Burnley FC"
 	},
 	{
 		"paID": 26450,
@@ -296,12 +291,12 @@
 	{
 		"paID": 184,
 		"filename": "184.png",
-		"team": "Burton_Albion_FC"
+		"team": "Burton Albion FC"
 	},
 	{
 		"paID": 51,
 		"filename": "51.png",
-		"team": "Bury_FC"
+		"team": "Bury FC"
 	},
 	{
 		"paID": 26474,
@@ -311,12 +306,12 @@
 	{
 		"paID": 27788,
 		"filename": "27788.png",
-		"team": "Calcio_catania"
+		"team": "Calcio catania"
 	},
 	{
 		"paID": 52,
 		"filename": "52.png",
-		"team": "Cardiff_City"
+		"team": "Cardiff City"
 	},
 	{
 		"paID": 72,
@@ -326,32 +321,32 @@
 	{
 		"paID": 94,
 		"filename": "94.png",
-		"team": "Celtic_FC"
+		"team": "Celtic FC"
 	},
 	{
 		"paID": 3,
 		"filename": "3.png",
-		"team": "Charlton_Athletic"
+		"team": "Charlton Athletic"
 	},
 	{
 		"paID": 4,
 		"filename": "4.png",
-		"team": "Chelsea_FC"
+		"team": "Chelsea FC"
 	},
 	{
 		"paID": 137,
 		"filename": "137.png",
-		"team": "Cheltenham_Town_FC"
+		"team": "Cheltenham Town FC"
 	},
 	{
 		"paID": 73,
 		"filename": "73.png",
-		"team": "Chesterfield_FC"
+		"team": "Chesterfield FC"
 	},
 	{
 		"paID": 27611,
 		"filename": "27611.png",
-		"team": "Chievo_verona"
+		"team": "Chievo verona"
 	},
 	{
 		"paID": 318,
@@ -361,62 +356,62 @@
 	{
 		"paID": 26313,
 		"filename": "26313.png",
-		"team": "Club_Athletic_Bilbao"
+		"team": "Club Athletic Bilbao"
 	},
 	{
 		"paID": 26282,
 		"filename": "26282.png",
-		"team": "Club_Brugge_KV"
+		"team": "Club Brugge KV"
 	},
 	{
 		"paID": 26267,
 		"filename": "26267.png",
-		"team": "Club_Sport_Marítimo"
+		"team": "Club Sport Marítimo"
 	},
 	{
 		"paID": 106,
 		"filename": "106.png",
-		"team": "Clyde_FC"
+		"team": "Clyde FC"
 	},
 	{
 		"paID": 74,
 		"filename": "74.png",
-		"team": "Colchester_United_FC"
+		"team": "Colchester United FC"
 	},
 	{
 		"paID": 6,
 		"filename": "6.png",
-		"team": "Coventry_City_FC"
+		"team": "Coventry City FC"
 	},
 	{
 		"paID": 119,
 		"filename": "119.png",
-		"team": "Cowdenbeath_FC"
+		"team": "Cowdenbeath FC"
 	},
 	{
 		"paID": 188,
 		"filename": "188.png",
-		"team": "Crawley_Town_FC"
+		"team": "Crawley Town FC"
 	},
 	{
 		"paID": 54,
 		"filename": "54.png",
-		"team": "Crewe_Alexandra"
+		"team": "Crewe Alexandra"
 	},
 	{
 		"paID": 319,
 		"filename": "319.png",
-		"team": "Crusaders_F.C"
+		"team": "Crusaders F.C"
 	},
 	{
 		"paID": 5,
 		"filename": "5.png",
-		"team": "Crystal_Palace_FC"
+		"team": "Crystal Palace FC"
 	},
 	{
 		"paID": 179,
 		"filename": "179.png",
-		"team": "Dagenham_and_Redbridge"
+		"team": "Dagenham and Redbridge"
 	},
 	{
 		"paID": 38312,
@@ -426,92 +421,92 @@
 	{
 		"paID": 7,
 		"filename": "7.png",
-		"team": "Derby_County_F.C"
+		"team": "Derby County F.C"
 	},
 	{
 		"paID": 1570,
 		"filename": "1570.png",
-		"team": "Derry_City_FC"
+		"team": "Derry City FC"
 	},
 	{
 		"paID": 8254,
 		"filename": "8254.png",
-		"team": "Din_minsk"
+		"team": "Dinamo Minsk"
 	},
 	{
 		"paID": 32166,
 		"filename": "32166.png",
-		"team": "Dinamo_Zagreb"
+		"team": "Dinamo Zagreb"
 	},
 	{
 		"paID": 6794,
 		"filename": "6794.png",
-		"team": "Doncaster_Rovers_FC"
+		"team": "Doncaster Rovers FC"
 	},
 	{
 		"paID": 120,
 		"filename": "120.png",
-		"team": "Dumbarton_FC"
+		"team": "Dumbarton FC"
 	},
 	{
 		"paID": 95,
 		"filename": "95.png",
-		"team": "Dundee_FC"
+		"team": "Dundee FC"
 	},
 	{
 		"paID": 96,
 		"filename": "96.png",
-		"team": "Dundee_United_FC"
+		"team": "Dundee United FC"
 	},
 	{
 		"paID": 97,
 		"filename": "97.png",
-		"team": "Dunfermline_Athletic_FC"
+		"team": "Dunfermline Athletic FC"
 	},
 	{
 		"paID": 121,
 		"filename": "121.png",
-		"team": "East_Fife_FC"
+		"team": "East Fife FC"
 	},
 	{
 		"paID": 122,
 		"filename": "122.png",
-		"team": "East_Stirlingshire_FC"
+		"team": "East Stirlingshire FC"
 	},
 	{
 		"paID": 43015,
 		"filename": "43015.png",
-		"team": "EB_Streymur"
+		"team": "EB Streymur"
 	},
 	{
 		"paID": 45562,
 		"filename": "45562.png",
-		"team": "Eintracht_Braunschweig"
+		"team": "Eintracht Braunschweig"
 	},
 	{
 		"paID": 26460,
 		"filename": "26460.png",
-		"team": "Eintracht_Frankfurt"
+		"team": "Eintracht Frankfurt"
 	},
 	{
 		"paID": 37488,
 		"filename": "37488.png",
-		"team": "Elche_CF"
+		"team": "Elche CF"
 	},
 	{
 		"paID": 7558,
 		"filename": "7558.png",
-		"team": "Elgin_City_FC"
+		"team": "Elgin City FC"
 	},
 	{
 		"paID": 26347,
 		"filename": "26347.png",
-		"team": "En_Avant_de_Guingamp"
+		"team": "En Avant de Guingamp"
 	},
 	{
 		"paID": 8,
 		"filename": "8.png",
-		"team": "Everton_F.C"
+		"team": "Everton F.C"
 	},
 	{
 		"paID": 59842,
@@ -521,187 +516,182 @@
 	{
 		"paID": 76,
 		"filename": "76.png",
-		"team": "Exeter_City_FC"
+		"team": "Exeter City FC"
 	},
 	{
 		"paID": 38274,
 		"filename": "38274.png",
-		"team": "F91_Dudelange"
+		"team": "F91 Dudelange"
 	},
 	{
 		"paID": 108,
 		"filename": "108.png",
-		"team": "Falkirk_FC"
+		"team": "Falkirk FC"
 	},
 	{
 		"paID": 32656,
 		"filename": "32656.png",
-		"team": "FC_Augsburg"
+		"team": "FC Augsburg"
 	},
 	{
 		"paID": 26398,
 		"filename": "26398.png",
-		"team": "FC_Basel"
+		"team": "FC Basel"
 	},
 	{
 		"paID": 26247,
 		"filename": "26247.png",
-		"team": "FC_Bayern_Munchen"
+		"team": "FC Bayern Munchen"
 	},
 	{
 		"paID": 27882,
 		"filename": "27882.png",
-		"team": "FC_Chornomorets_Odesa"
+		"team": "FC Chornomorets Odesa"
 	},
 	{
 		"paID": 45978,
 		"filename": "45978.png",
-		"team": "FC_Dacia_Chisinau"
+		"team": "FC Dacia Chisinau"
 	},
 	{
 		"paID": 46004,
 		"filename": "46004.png",
-		"team": "FC_Dila_Gori"
+		"team": "FC Dila Gori"
 	},
 	{
 		"paID": 7758,
 		"filename": "7758.png",
-		"team": "FC_Dinamo_Tbilisi"
+		"team": "FC Dinamo Tbilisi"
 	},
 	{
 		"paID": 38305,
 		"filename": "38305.png",
-		"team": "FC_Dnipro_Dnipropetrovsk"
+		"team": "FC Dnipro Dnipropetrovsk"
 	},
 	{
 		"paID": 7012,
 		"filename": "7012.png",
-		"team": "FC_Dynamo_Kyiv"
+		"team": "FC Dynamo Kyiv"
 	},
 	{
 		"paID": 77,
 		"filename": "77.png",
-		"team": "FC_Gillingham"
+		"team": "FC Gillingham"
 	},
 	{
 		"paID": 26340,
 		"filename": "26340.png",
-		"team": "FC_Girondins_de_Bordeaux"
+		"team": "FC Girondins de Bordeaux"
 	},
 	{
 		"paID": 26412,
 		"filename": "26412.png",
-		"team": "FC_Kobenhavn"
+		"team": "FC Kobenhavn"
 	},
 	{
 		"paID": 26469,
 		"filename": "26469.png",
-		"team": "FC_Lorient"
+		"team": "FC Lorient"
 	},
 	{
 		"paID": 38304,
 		"filename": "38304.png",
-		"team": "FC_Metalurh_Donetsk"
-	},
-	{
-		"paID": 8254,
-		"filename": "8254.png",
-		"team": "FC_Minsk"
+		"team": "FC Metalurh Donetsk"
 	},
 	{
 		"paID": 26350,
 		"filename": "26350.png",
-		"team": "FC_Nantes"
+		"team": "FC Nantes"
 	},
 	{
 		"paID": 43136,
 		"filename": "43136.png",
-		"team": "FC_Nordsjaelland"
+		"team": "FC Nordsjaelland"
 	},
 	{
 		"paID": 32323,
 		"filename": "32323.png",
-		"team": "FC_Nürnberg"
+		"team": "FC Nurnberg"
 	},
 	{
 		"paID": 26264,
 		"filename": "26264.png",
-		"team": "FC_Porto"
+		"team": "FC Porto"
 	},
 	{
 		"paID": 26404,
 		"filename": "26404.png",
-		"team": "FC_Red_Bull_Salzburg"
+		"team": "FC Red Bull Salzburg"
 	},
 	{
 		"paID": 26249,
 		"filename": "26249.png",
-		"team": "FC_Schalke_04"
+		"team": "FC Schalke 04"
 	},
 	{
 		"paID": 38299,
 		"filename": "38299.png",
-		"team": "FC_Shakhtar_Donetsk"
+		"team": "FC Shakhtar Donetsk"
 	},
 	{
 		"paID": 38383,
 		"filename": "38383.png",
-		"team": "FC_Sheriff"
+		"team": "FC Sheriff"
 	},
 	{
 		"paID": 38271,
 		"filename": "38271.png",
-		"team": "FC_Shirak"
+		"team": "FC Shirak"
 	},
 	{
 		"paID": 38329,
 		"filename": "38329.png",
-		"team": "FC_Slovan_Liberec"
+		"team": "FC Slovan Liberec"
 	},
 	{
 		"paID": 8407,
 		"filename": "8407.png",
-		"team": "FC_Sochaux_Montbéliard"
+		"team": "FC Sochaux Montbeliard"
 	},
 	{
 		"paID": 18,
 		"filename": "18.png",
-		"team": "FC_Southampton"
+		"team": "FC Southampton"
 	},
 	{
 		"paID": 26392,
 		"filename": "26392.png",
-		"team": "FC_St._Gallen"
+		"team": "FC St. Gallen"
 	},
 	{
 		"paID": 45730,
 		"filename": "45730.png",
-		"team": "FC_Thun"
+		"team": "FC Thun"
 	},
 	{
 		"paID": 38389,
 		"filename": "38389.png",
-		"team": "FC_Tiraspol"
+		"team": "FC Tiraspol"
 	},
 	{
 		"paID": 26334,
 		"filename": "26334.png",
-		"team": "FC_Utrecht"
+		"team": "FC Utrecht"
 	},
 	{
 		"paID": 26394,
 		"filename": "26394.png",
-		"team": "FC_Zurich"
+		"team": "FC Zurich"
 	},
 	{
 		"paID": 26300,
 		"filename": "26300.png",
-		"team": "FCB"
+		"team": "FC Barcelona"
 	},
 	{
 		"paID": 38488,
 		"filename": "38488.png",
-		"team": "Fcpacosferreira"
+		"team": "Pacos Ferreira"
 	},
 	{
 		"paID": 26449,
@@ -716,137 +706,137 @@
 	{
 		"paID": 43028,
 		"filename": "43028.png",
-		"team": "Fimleikafelag_Hafnarfjardar"
+		"team": "Fimleikafelag Hafnarfjardar"
 	},
 	{
 		"paID": 26402,
 		"filename": "26402.png",
-		"team": "FK_Austria_Wien"
+		"team": "FK Austria Wien"
 	},
 	{
 		"paID": 38333,
 		"filename": "38333.png",
-		"team": "FK_Baumit_Jablonec"
+		"team": "FK Baumit Jablonec"
 	},
 	{
 		"paID": 49167,
 		"filename": "49167.png",
-		"team": "FK_Daugava_Daugavpils"
+		"team": "FK Daugava Daugavpils"
 	},
 	{
 		"paID": 38392,
 		"filename": "38392.png",
-		"team": "FK_Ekranas"
+		"team": "FK Ekranas"
 	},
 	{
 		"paID": 57487,
 		"filename": "57487.png",
-		"team": "FK_Jagodina_Emblem"
+		"team": "FK Jagodina Emblem"
 	},
 	{
 		"paID": 53603,
 		"filename": "53603.png",
-		"team": "FK_Mladost_Podgorica"
+		"team": "FK Mladost Podgorica"
 	},
 	{
 		"paID": 6935,
 		"filename": "6935.png",
-		"team": "FK_Partizan"
+		"team": "FK Partizan"
 	},
 	{
 		"paID": 43354,
 		"filename": "43354.png",
-		"team": "FK_Rudar"
+		"team": "FK Rudar"
 	},
 	{
 		"paID": 36571,
 		"filename": "36571.png",
-		"team": "Fk_senica"
+		"team": "Fk Senica"
 	},
 	{
 		"paID": 45586,
 		"filename": "45586.png",
-		"team": "FK_Shakhtyor_Karagandy"
+		"team": "FK Shakhtyor Karagandy"
 	},
 	{
 		"paID": 45186,
 		"filename": "45186.png",
-		"team": "FK_Suduva"
+		"team": "FK Suduva"
 	},
 	{
 		"paID": 32860,
 		"filename": "32860.png",
-		"team": "Fk_Sutjeska_Niksic"
+		"team": "Fk Sutjeska Niksic"
 	},
 	{
 		"paID": 43338,
 		"filename": "43338.png",
-		"team": "FK_Vardar"
+		"team": "FK Vardar"
 	},
 	{
 		"paID": 7377,
 		"filename": "7377.png",
-		"team": "FK_Vojvodina"
+		"team": "FK Vojvodina"
 	},
 	{
 		"paID": 38276,
 		"filename": "38276.png",
-		"team": "FK_Zenit_St_Peterburg"
+		"team": "FK Zenit St Peterburg"
 	},
 	{
 		"paID": 11899,
 		"filename": "11899.png",
-		"team": "Fleetwood_Town_FC"
+		"team": "Fleetwood Town FC"
 	},
 	{
 		"paID": 57488,
 		"filename": "57488.png",
-		"team": "Fola_Esch"
+		"team": "Fola Esch"
 	},
 	{
 		"paID": 109,
 		"filename": "109.png",
-		"team": "Forfar_Athletic_FC"
+		"team": "Forfar Athletic FC"
 	},
 	{
 		"paID": 32676,
 		"filename": "32676.png",
-		"team": "FSV_Mainz_05"
+		"team": "FSV Mainz 05"
 	},
 	{
 		"paID": 55,
 		"filename": "55.png",
-		"team": "Fulham_FC"
+		"team": "Fulham FC"
 	},
 	{
 		"paID": 27811,
 		"filename": "27811.png",
-		"team": "G.D._Estoril_Praia"
+		"team": "G.D. Estoril Praia"
 	},
 	{
 		"paID": 26451,
 		"filename": "26451.png",
-		"team": "Galatasaray_Sports_Club"
+		"team": "Galatasaray Sports Club"
 	},
 	{
 		"paID": 6894,
 		"filename": "6894.png",
-		"team": "Genoa_cfc"
+		"team": "Genoa CFC"
 	},
 	{
 		"paID": 37459,
 		"filename": "37459.png",
-		"team": "Getafe_cf"
+		"team": "Getafe CF"
 	},
 	{
 		"paID": 27450,
 		"filename": "27450.png",
-		"team": "Gil_Vicente_FC"
+		"team": "Gil Vicente FC"
 	},
 	{
 		"paID": 54324,
 		"filename": "54324.png",
-		"team": "GKS_Piast_Gliwice"
+		"team": "GKS Piast Gliwice"
 	},
 	{
 		"paID": 308,
@@ -856,17 +846,17 @@
 	{
 		"paID": 41000,
 		"filename": "41000.png",
-		"team": "Granada_CFtipo"
+		"team": "Granada CFtipo"
 	},
 	{
 		"paID": 26388,
 		"filename": "26388.png",
-		"team": "Grasshoppers_Club_Zurich"
+		"team": "Grasshoppers Club Zurich"
 	},
 	{
 		"paID": 112,
 		"filename": "112.png",
-		"team": "Greenock_Morton_FC"
+		"team": "Greenock Morton FC"
 	},
 	{
 		"paID": 78,
@@ -876,87 +866,87 @@
 	{
 		"paID": 38313,
 		"filename": "38313.png",
-		"team": "Gyori_ETO_FC"
+		"team": "Gyori ETO FC"
 	},
 	{
 		"paID": 110,
 		"filename": "110.png",
-		"team": "Hamilton_Academical_FC"
+		"team": "Hamilton Academical FC"
 	},
 	{
 		"paID": 32309,
 		"filename": "32309.png",
-		"team": "Hannover_96"
+		"team": "Hannover 96"
 	},
 	{
 		"paID": 35999,
 		"filename": "35999.png",
-		"team": "Hapoel_Tel_Aviv_New"
+		"team": "Hapoel Tel Aviv New"
 	},
 	{
 		"paID": 80,
 		"filename": "80.png",
-		"team": "Hartlepool_United_FC"
+		"team": "Hartlepool United FC"
 	},
 	{
 		"paID": 98,
 		"filename": "98.png",
-		"team": "Heart_of_Midlothian_FC"
+		"team": "Heart of Midlothian FC"
 	},
 	{
 		"paID": 27648,
 		"filename": "27648.png",
-		"team": "Hellas_Verona_FC"
+		"team": "Hellas Verona FC"
 	},
 	{
 		"paID": 26263,
 		"filename": "26263.png",
-		"team": "Hertha_Berlin_SC"
+		"team": "Hertha Berlin SC"
 	},
 	{
 		"paID": 99,
 		"filename": "99.png",
-		"team": "Hibernian_FC"
+		"team": "Hibernian FC"
 	},
 	{
 		"paID": 6824,
 		"filename": "6824.png",
-		"team": "HJK_Helsinki"
+		"team": "HJK Helsinki"
 	},
 	{
 		"paID": 6546,
 		"filename": "6546.png",
-		"team": "HNK_Hajduk_Split"
+		"team": "HNK Hajduk Split"
 	},
 	{
 		"paID": 26351,
 		"filename": "26351.png",
-		"team": "HSC_Montpellier"
+		"team": "HSC Montpellier"
 	},
 	{
 		"paID": 26254,
 		"filename": "26254.png",
-		"team": "HSV_Logo"
+		"team": "HSV Logo"
 	},
 	{
 		"paID": 56,
 		"filename": "56.png",
-		"team": "Huddersfield_Town"
+		"team": "Huddersfield Town"
 	},
 	{
 		"paID": 26,
 		"filename": "26.png",
-		"team": "Hull_City"
+		"team": "Hull City"
 	},
 	{
 		"paID": 26235,
 		"filename": "26235.png",
-		"team": "IF_Elfsborg"
+		"team": "IF Elfsborg"
 	},
 	{
 		"paID": 7806,
 		"filename": "7806.png",
-		"team": "IFK_Goteborg"
+		"team": "IFK Goteborg"
 	},
 	{
 		"paID": 6136,
@@ -966,27 +956,27 @@
 	{
 		"paID": 1456,
 		"filename": "1456.png",
-		"team": "Inverness_Caledonian_Thistle"
+		"team": "Inverness Caledonian Thistle"
 	},
 	{
 		"paID": 27,
 		"filename": "27.png",
-		"team": "Ipswich_Town"
+		"team": "Ipswich Town"
 	},
 	{
 		"paID": 38323,
 		"filename": "38323.png",
-		"team": "Iprottabandalag_Vestmannaeyja"
+		"team": "Iprottabandalag Vestmannaeyja"
 	},
 	{
 		"paID": 38377,
 		"filename": "38377.png",
-		"team": "Jeunesse_esch"
+		"team": "Jeunesse esch"
 	},
 	{
 		"paID": 26359,
 		"filename": "26359.png",
-		"team": "Juventus_Turin"
+		"team": "Juventus Turin"
 	},
 	{
 		"paID": 56150,
@@ -996,17 +986,17 @@
 	{
 		"paID": 123,
 		"filename": "123.png",
-		"team": "KilmarnockLogo"
+		"team": "Kilmarnock"
 	},
 	{
 		"paID": 32816,
 		"filename": "32816.png",
-		"team": "KKS_Lech_Poznań"
+		"team": "KKS Lech Poznan"
 	},
 	{
 		"paID": 7009,
 		"filename": "7009.png",
-		"team": "KR_Reykjavik"
+		"team": "KR Reykjavik"
 	},
 	{
 		"paID": 26284,
@@ -1016,87 +1006,87 @@
 	{
 		"paID": 43571,
 		"filename": "43571.png",
-		"team": "KS_Skenderbeu"
+		"team": "KS Skenderbeu"
 	},
 	{
 		"paID": 49100,
 		"filename": "49100.png",
-		"team": "Kuban_Krasnodar"
+		"team": "Kuban Krasnodar"
 	},
 	{
 		"paID": 28,
 		"filename": "28.png",
-		"team": "Leeds_United"
+		"team": "Leeds United"
 	},
 	{
 		"paID": 36570,
 		"filename": "36570.png",
-		"team": "Legia_Warszawa"
+		"team": "Legia Warszawa"
 	},
 	{
 		"paID": 29,
 		"filename": "29.png",
-		"team": "Leicester02"
+		"team": "Leicester"
 	},
 	{
 		"paID": 37454,
 		"filename": "37454.png",
-		"team": "Levante_Union_Deportiva,_S.A.D"
+		"team": "Levante Union Deportiva, S.A.D"
 	},
 	{
 		"paID": 57,
 		"filename": "57.png",
-		"team": "Leyton_Orient_FC"
+		"team": "Leyton Orient FC"
 	},
 	{
 		"paID": 27372,
 		"filename": "27372.png",
-		"team": "Lille_OSC"
+		"team": "Lille OSC"
 	},
 	{
 		"paID": 9,
 		"filename": "9.png",
-		"team": "Liverpool_FC"
+		"team": "Liverpool FC"
 	},
 	{
 		"paID": 111,
 		"filename": "111.png",
-		"team": "Livingston_FC"
+		"team": "Livingston FC"
 	},
 	{
 		"paID": 61179,
 		"filename": "61179.png",
-		"team": "Ludogorets_FC"
+		"team": "Ludogorets FC"
 	},
 	{
 		"paID": 8420,
 		"filename": "8420.png",
-		"team": "Maccabi_Haifa_FC"
+		"team": "Maccabi Haifa FC"
 	},
 	{
 		"paID": 27826,
 		"filename": "27826.png",
-		"team": "Malaga_CF"
+		"team": "Malaga CF"
 	},
 	{
 		"paID": 26237,
 		"filename": "26237.png",
-		"team": "Malmo_FF"
+		"team": "Malmo FF"
 	},
 	{
 		"paID": 11,
 		"filename": "11.png",
-		"team": "Manchester_City"
+		"team": "Manchester City"
 	},
 	{
 		"paID": 12,
 		"filename": "12.png",
-		"team": "Manchester_United_FC"
+		"team": "Manchester United FC"
 	},
 	{
 		"paID": 58,
 		"filename": "58.png",
-		"team": "Mansfield_Town_FC"
+		"team": "Mansfield Town FC"
 	},
 	{
 		"paID": 30,
@@ -1106,37 +1096,37 @@
 	{
 		"paID": 13,
 		"filename": "13.png",
-		"team": "Millwall_FC"
+		"team": "Millwall FC"
 	},
 	{
 		"paID": 20,
 		"filename": "20.png",
-		"team": "MK_Dons"
+		"team": "MK Dons"
 	},
 	{
 		"paID": 26377,
 		"filename": "26377.png",
-		"team": "Molde_Fotball"
+		"team": "Molde Fotball"
 	},
 	{
 		"paID": 124,
 		"filename": "124.png",
-		"team": "Montrose_FC"
+		"team": "Montrose FC"
 	},
 	{
 		"paID": 215,
 		"filename": "215.png",
-		"team": "Morecambe_FC"
+		"team": "Morecambe FC"
 	},
 	{
 		"paID": 100,
 		"filename": "100.png",
-		"team": "Motherwell_FC_logo"
+		"team": "Motherwell FC logo"
 	},
 	{
 		"paID": 41220,
 		"filename": "41220.png",
-		"team": "MSK_Zilina"
+		"team": "MSK Zilina"
 	},
 	{
 		"paID": 38366,
@@ -1146,32 +1136,32 @@
 	{
 		"paID": 31,
 		"filename": "31.png",
-		"team": "Newcastle_United"
+		"team": "Newcastle United"
 	},
 	{
 		"paID": 19337,
 		"filename": "19337.png",
-		"team": "Newport_County"
+		"team": "Newport County"
 	},
 	{
 		"paID": 54788,
 		"filename": "54788.png",
-		"team": "NK_Celje"
+		"team": "NK Celje"
 	},
 	{
 		"paID": 58964,
 		"filename": "58964.png",
-		"team": "NK_Lokomotiva_Zagreb"
+		"team": "NK Lokomotiva Zagreb"
 	},
 	{
 		"paID": 32733,
 		"filename": "32733.png",
-		"team": "NK_Olimpija_Ljubljana"
+		"team": "NK Olimpija Ljubljana"
 	},
 	{
 		"paID": 43474,
 		"filename": "43474.png",
-		"team": "NK_Siroki_Brijeg"
+		"team": "NK Siroki Brijeg"
 	},
 	{
 		"paID": 7757,
@@ -1181,32 +1171,32 @@
 	{
 		"paID": 59,
 		"filename": "59.png",
-		"team": "Northampton_Town_FC"
+		"team": "Northampton Town FC"
 	},
 	{
 		"paID": 14,
 		"filename": "14.png",
-		"team": "Norwich_City"
+		"team": "Norwich City"
 	},
 	{
 		"paID": 15,
 		"filename": "15.png",
-		"team": "Nottingham_Forest"
+		"team": "Nottingham Forest"
 	},
 	{
 		"paID": 60,
 		"filename": "60.png",
-		"team": "Notts_County"
+		"team": "Notts County"
 	},
 	{
 		"paID": 27462,
 		"filename": "27462.png",
-		"team": "OGC_Nice"
+		"team": "OGC Nice"
 	},
 	{
 		"paID": 32,
 		"filename": "32.png",
-		"team": "Oldham_Athletic"
+		"team": "Oldham Athletic"
 	},
 	{
 		"paID": 7897,
@@ -1216,12 +1206,12 @@
 	{
 		"paID": 26344,
 		"filename": "26344.png",
-		"team": "Olympique_de_Marseille"
+		"team": "Olympique de Marseille"
 	},
 	{
 		"paID": 26345,
 		"filename": "26345.png",
-		"team": "Olympique_Lyonnais"
+		"team": "Olympique Lyonnais"
 	},
 	{
 		"paID": 27152,
@@ -1231,12 +1221,12 @@
 	{
 		"paID": 33,
 		"filename": "33.png",
-		"team": "Oxford_United_FC"
+		"team": "Oxford United FC"
 	},
 	{
 		"paID": 51508,
 		"filename": "51508.png",
-		"team": "Pandurii_Targu_Jiu"
+		"team": "Pandurii Targu Jiu"
 	},
 	{
 		"paID": 8417,
@@ -1246,17 +1236,17 @@
 	{
 		"paID": 26358,
 		"filename": "26358.png",
-		"team": "Parma_F.C"
+		"team": "Parma F.C"
 	},
 	{
 		"paID": 113,
 		"filename": "113.png",
-		"team": "Partick_Thistle_FC"
+		"team": "Partick Thistle FC"
 	},
 	{
 		"paID": 84,
 		"filename": "84.png",
-		"team": "Peterborough_United"
+		"team": "Peterborough United"
 	},
 	{
 		"paID": 7596,
@@ -1266,27 +1256,27 @@
 	{
 		"paID": 27018,
 		"filename": "27018.png",
-		"team": "PFK_CSKA"
+		"team": "PFK CSKA"
 	},
 	{
 		"paID": 34,
 		"filename": "34.png",
-		"team": "Plymouth_Argyle_F.C"
+		"team": "Plymouth Argyle F.C"
 	},
 	{
 		"paID": 61,
 		"filename": "61.png",
-		"team": "PNE_FC"
+		"team": "PNE FC"
 	},
 	{
 		"paID": 35,
 		"filename": "35.png",
-		"team": "Port_Vale"
+		"team": "Port Vale"
 	},
 	{
 		"paID": 36,
 		"filename": "36.png",
-		"team": "Portsmouth_FC"
+		"team": "Portsmouth FC"
 	},
 	{
 		"paID": 26339,
@@ -1296,7 +1286,7 @@
 	{
 		"paID": 26321,
 		"filename": "26321.png",
-		"team": "PSV_Eindhoven"
+		"team": "PSV Eindhoven"
 	},
 	{
 		"paID": 16,
@@ -1306,22 +1296,22 @@
 	{
 		"paID": 125,
 		"filename": "125.png",
-		"team": "Queen_of_the_South_FC"
+		"team": "Queen of the South FC"
 	},
 	{
 		"paID": 126,
 		"filename": "126.png",
-		"team": "Queens_Park_FC"
+		"team": "Queens Park FC"
 	},
 	{
 		"paID": 26291,
 		"filename": "26291.png",
-		"team": "R.S.C._Anderlecht"
+		"team": "R.S.C. Anderlecht"
 	},
 	{
 		"paID": 114,
 		"filename": "114.png",
-		"team": "Raith_Rovers_F.C"
+		"team": "Raith Rovers F.C"
 	},
 	{
 		"paID": 47811,
@@ -1331,62 +1321,62 @@
 	{
 		"paID": 26405,
 		"filename": "26405.png",
-		"team": "Rapid_Wien"
+		"team": "Rapid Wien"
 	},
 	{
 		"paID": 35724,
 		"filename": "35724.png",
-		"team": "Rayo_Vallecano"
+		"team": "Rayo Vallecano"
 	},
 	{
 		"paID": 26302,
 		"filename": "26302.png",
-		"team": "RC_Celta_de_Vigo"
+		"team": "RC Celta de Vigo"
 	},
 	{
 		"paID": 26309,
 		"filename": "26309.png",
-		"team": "RC_Deportivo_La_Coruña"
+		"team": "RC Deportivo La Coruña"
 	},
 	{
 		"paID": 26306,
 		"filename": "26306.png",
-		"team": "Rcd_espanyol"
+		"team": "Rcd Espanyol"
 	},
 	{
 		"paID": 26301,
 		"filename": "26301.png",
-		"team": "Rcd_mallorca"
+		"team": "Rcd Mallorca"
 	},
 	{
 		"paID": 62,
 		"filename": "62.png",
-		"team": "Reading_FC"
+		"team": "Reading FC"
 	},
 	{
 		"paID": 26314,
 		"filename": "26314.png",
-		"team": "Real_betis"
+		"team": "Real Betis"
 	},
 	{
 		"paID": 26303,
 		"filename": "26303.png",
-		"team": "Real_Madrid_CF"
+		"team": "Real Madrid CF"
 	},
 	{
 		"paID": 26308,
 		"filename": "26308.png",
-		"team": "Real_Sociedad"
+		"team": "Real Sociedad"
 	},
 	{
 		"paID": 26319,
 		"filename": "26319.png",
-		"team": "Real_Valladolid"
+		"team": "Real Valladolid"
 	},
 	{
 		"paID": 26311,
 		"filename": "26311.png",
-		"team": "Real_Zaragoza"
+		"team": "Real Zaragoza"
 	},
 	{
 		"paID": 27862,
@@ -1396,7 +1386,7 @@
 	{
 		"paID": 26266,
 		"filename": "26266.png",
-		"team": "Rio_Ave_FC"
+		"team": "Rio Ave FC"
 	},
 	{
 		"paID": 85,
@@ -1406,32 +1396,32 @@
 	{
 		"paID": 26374,
 		"filename": "26374.png",
-		"team": "Rosenborg_Trondheim"
+		"team": "Rosenborg Trondheim"
 	},
 	{
 		"paID": 848,
 		"filename": "848.png",
-		"team": "Ross_County_FC"
+		"team": "Ross County FC"
 	},
 	{
 		"paID": 63,
 		"filename": "63.png",
-		"team": "Rotherham_United_FC"
+		"team": "Rotherham United FC"
 	},
 	{
 		"paID": 26295,
 		"filename": "26295.png",
-		"team": "Royal_Standard_de_Liege"
+		"team": "Royal Standard de Liege"
 	},
 	{
 		"paID": 46218,
 		"filename": "46218.png",
-		"team": "Rubin_Kazan"
+		"team": "Rubin Kazan"
 	},
 	{
 		"paID": 26370,
 		"filename": "26370.png",
-		"team": "S.S.C._Napoli"
+		"team": "S.S.C. Napoli"
 	},
 	{
 		"paID": 26361,
@@ -1441,17 +1431,17 @@
 	{
 		"paID": 55252,
 		"filename": "55252.png",
-		"team": "SC_Olhanense"
+		"team": "SC Olhanense"
 	},
 	{
 		"paID": 26341,
 		"filename": "26341.png",
-		"team": "SCB_Logo"
+		"team": "SCB Logo"
 	},
 	{
 		"paID": 87,
 		"filename": "87.png",
-		"team": "Scunthorpe_United_FC"
+		"team": "Scunthorpe United FC"
 	},
 	{
 		"paID": 27821,
@@ -1461,17 +1451,17 @@
 	{
 		"paID": 37,
 		"filename": "37.png",
-		"team": "Sheffield_United_FC"
+		"team": "Sheffield United FC"
 	},
 	{
 		"paID": 17,
 		"filename": "17.png",
-		"team": "Sheffield_Wednesday"
+		"team": "Sheffield Wednesday"
 	},
 	{
 		"paID": 64,
 		"filename": "64.png",
-		"team": "Shrewsbury_Town_FC"
+		"team": "Shrewsbury Town FC"
 	},
 	{
 		"paID": 43335,
@@ -1481,77 +1471,77 @@
 	{
 		"paID": 7380,
 		"filename": "7380.png",
-		"team": "SK_Slovan_BA"
+		"team": "SK Slovan BA"
 	},
 	{
 		"paID": 26533,
 		"filename": "26533.png",
-		"team": "SK_Sturm_Graz"
+		"team": "SK Sturm Graz"
 	},
 	{
 		"paID": 6387,
 		"filename": "6387.png",
-		"team": "Skoda_Xanthi_FC"
+		"team": "Skoda Xanthi FC"
 	},
 	{
 		"paID": 26274,
 		"filename": "26274.png",
-		"team": "SL_Benfica"
+		"team": "SL Benfica"
 	},
 	{
 		"paID": 43226,
 		"filename": "43226.png",
-		"team": "Slask_Wroclaw"
+		"team": "WKS Slask Wroclaw"
 	},
 	{
 		"paID": 1577,
 		"filename": "1577.png",
-		"team": "Sligo_Rovers_FC"
+		"team": "Sligo Rovers FC"
 	},
 	{
 		"paID": 88,
 		"filename": "88.png",
-		"team": "Southend_United"
+		"team": "Southend United"
 	},
 	{
 		"paID": 43079,
 		"filename": "43079.png",
-		"team": "SP_Tre_Penne"
+		"team": "SP Tre Penne"
 	},
 	{
 		"paID": 7425,
 		"filename": "7425.png",
-		"team": "Sparta_Prague"
+		"team": "Sparta Prague"
 	},
 	{
 		"paID": 26269,
 		"filename": "26269.png",
-		"team": "Sporting_Clube_Braga"
+		"team": "Sporting Clube Braga"
 	},
 	{
 		"paID": 26268,
 		"filename": "26268.png",
-		"team": "Sporting_Clube_de_Portugal"
+		"team": "Sporting Clube de Portugal"
 	},
 	{
 		"paID": 26362,
 		"filename": "26362.png",
-		"team": "SS_Lazio"
+		"team": "SS Lazio"
 	},
 	{
 		"paID": 102,
 		"filename": "102.png",
-		"team": "St_Mirren_FC"
+		"team": "St Mirren FC"
 	},
 	{
 		"paID": 41053,
 		"filename": "41053.png",
-		"team": "Stade_de_Reims"
+		"team": "Stade de Reims"
 	},
 	{
 		"paID": 26349,
 		"filename": "26349.png",
-		"team": "Stade_Rennais_FC"
+		"team": "Stade Rennais FC"
 	},
 	{
 		"paID": 6901,
@@ -1561,17 +1551,17 @@
 	{
 		"paID": 127,
 		"filename": "127.png",
-		"team": "Stenhousemuir_FC"
+		"team": "Stenhousemuir FC"
 	},
 	{
 		"paID": 1073,
 		"filename": "1073.png",
-		"team": "Stevenage_FC"
+		"team": "Stevenage FC"
 	},
 	{
 		"paID": 128,
 		"filename": "128.png",
-		"team": "Stirling_Albion_FC"
+		"team": "Stirling Albion FC"
 	},
 	{
 		"paID": 115,
@@ -1581,17 +1571,17 @@
 	{
 		"paID": 38,
 		"filename": "38.png",
-		"team": "Stoke_City_FC"
+		"team": "Stoke City FC"
 	},
 	{
 		"paID": 129,
 		"filename": "129.png",
-		"team": "Stranraer_FC"
+		"team": "Stranraer FC"
 	},
 	{
 		"paID": 26376,
 		"filename": "26376.png",
-		"team": "Stromsgodset_IF"
+		"team": "Stromsgodset IF"
 	},
 	{
 		"paID": 39,
@@ -1601,17 +1591,17 @@
 	{
 		"paID": 26252,
 		"filename": "26252.png",
-		"team": "SV_Werder_Bremen"
+		"team": "SV Werder Bremen"
 	},
 	{
 		"paID": 65,
 		"filename": "65.png",
-		"team": "Swansea_City_AFC"
+		"team": "Swansea City AFC"
 	},
 	{
 		"paID": 40,
 		"filename": "40.png",
-		"team": "Swindon_Town_FC"
+		"team": "Swindon Town FC"
 	},
 	{
 		"paID": 3028,
@@ -1621,72 +1611,72 @@
 	{
 		"paID": 27038,
 		"filename": "27038.png",
-		"team": "Torino_FC"
+		"team": "Torino FC"
 	},
 	{
 		"paID": 90,
 		"filename": "90.png",
-		"team": "Torquay_United_FC"
+		"team": "Torquay United FC"
 	},
 	{
 		"paID": 19,
 		"filename": "19.png",
-		"team": "Tottenham_Hotspur"
+		"team": "Tottenham Hotspur"
 	},
 	{
 		"paID": 26346,
 		"filename": "26346.png",
-		"team": "Toulouse_FC"
+		"team": "Toulouse FC"
 	},
 	{
 		"paID": 66,
 		"filename": "66.png",
-		"team": "Tranmere_Rovers_FC"
+		"team": "Tranmere Rovers FC"
 	},
 	{
 		"paID": 48490,
 		"filename": "48490.png",
-		"team": "TSG_1899_Hoffenheim"
+		"team": "TSG 1899 Hoffenheim"
 	},
 	{
 		"paID": 41189,
 		"filename": "41189.png",
-		"team": "UD_Almeria"
+		"team": "UD Almeria"
 	},
 	{
 		"paID": 26360,
 		"filename": "26360.png",
-		"team": "Udinese_calcio"
+		"team": "Udinese Calcio"
 	},
 	{
 		"paID": 53908,
 		"filename": "53908.png",
-		"team": "US_Sassuolo_Calcio"
+		"team": "US Sassuolo Calcio"
 	},
 	{
 		"paID": 26316,
 		"filename": "26316.png",
-		"team": "Valencia_Cf"
+		"team": "Valencia Cf"
 	},
 	{
 		"paID": 32811,
 		"filename": "32811.png",
-		"team": "Valenciennes_FC"
+		"team": "Valenciennes FC"
 	},
 	{
 		"paID": 26250,
 		"filename": "26250.png",
-		"team": "VfB_Stuttgart"
+		"team": "VfB Stuttgart"
 	},
 	{
 		"paID": 26257,
 		"filename": "26257.png",
-		"team": "Vfl_Wolfsburg"
+		"team": "Vfl Wolfsburg"
 	},
 	{
 		"paID": 38295,
 		"filename": "38295.png",
-		"team": "Villarreal_CF"
+		"team": "Villarreal CF"
 	},
 	{
 		"paID": 26324,
@@ -1696,17 +1686,17 @@
 	{
 		"paID": 26275,
 		"filename": "26275.png",
-		"team": "Vitória_F.C"
+		"team": "Vitoria F.C"
 	},
 	{
 		"paID": 26265,
 		"filename": "26265.png",
-		"team": "Vitoria_Guimarães"
+		"team": "Vitoria Guimaraes"
 	},
 	{
 		"paID": 67,
 		"filename": "67.png",
-		"team": "Walsall_FC"
+		"team": "Walsall FC"
 	},
 	{
 		"paID": 41,
@@ -1716,42 +1706,42 @@
 	{
 		"paID": 42,
 		"filename": "42.png",
-		"team": "West_Bromwich_Albion"
+		"team": "West Bromwich Albion"
 	},
 	{
 		"paID": 43,
 		"filename": "43.png",
-		"team": "West_Ham_United_FC"
+		"team": "West Ham United FC"
 	},
 	{
 		"paID": 68,
 		"filename": "68.png",
-		"team": "Wigan_Athletic"
+		"team": "Wigan Athletic"
 	},
 	{
 		"paID": 44,
 		"filename": "44.png",
-		"team": "Wolverhampton_Wanderers"
+		"team": "Wolverhampton Wanderers"
 	},
 	{
 		"paID": 153,
 		"filename": "153.png",
-		"team": "Wycombe_Wanderers_FC"
+		"team": "Wycombe Wanderers FC"
 	},
 	{
 		"paID": 6870,
 		"filename": "6870.png",
-		"team": "Yeovil_Town_FC"
+		"team": "Yeovil Town FC"
 	},
 	{
 		"paID": 92,
 		"filename": "92.png",
-		"team": "York_City_FC"
+		"team": "York City FC"
 	},
 	{
 		"paID": 59974,
 		"filename": "59974.png",
-		"team": "Zalgiris_Vilnius"
+		"team": "Zalgiris Vilnius"
 	},
 	{
 		"paID": 33035,
@@ -1761,7 +1751,7 @@
 	{
 		"paID": 38336,
 		"filename": "38336.png",
-		"team": "Znak_Viktoria_Plzen"
+		"team": "Znak Viktoria Plzen"
 	},
 	{
 		"paID": 32471,
@@ -1777,16 +1767,6 @@
 		"paID": 1661,
 		"filename": "1661.png",
 		"team": "Turkey"
-	},
-	{
-		"paID": 1676,
-		"filename": "1676.png",
-		"team": "San Marino"
-	},
-	{
-		"paID": 1677,
-		"filename": "1677.png",
-		"team": "Faroe Islands"
 	},
 	{
 		"paID": 1678,
@@ -1832,11 +1812,6 @@
 		"paID": 37264,
 		"filename": "37264.png",
 		"team": "Algeria"
-	},
-	{
-		"paID": 37285,
-		"filename": "37285.png",
-		"team": "Ivory Coast"
 	},
 	{
 		"paID": 37306,
@@ -2164,13 +2139,348 @@
 		"team": "Esbjerg"
 	},
 	{
+		"paID": 10,
+		"filename": "10.png",
+		"team": "Luton"
+	},
+	{
+		"paID": 71,
+		"filename": "71.png",
+		"team": "Cambridge United FC"
+	},
+	{
+		"paID": 134,
+		"filename": "134.png",
+		"team": "Barnet FC"
+	},
+	{
+		"paID": 702,
+		"filename": "702.png",
+		"team": "Woking FC"
+	},
+	{
+		"paID": 1676,
+		"filename": "1676.png",
+		"team": "San Marino"
+	},
+	{
+		"paID": 1677,
+		"filename": "1677.png",
+		"team": "Faroe Islands"
+	},
+	{
+		"paID": 5945,
+		"filename": "5945.png",
+		"team": "Forest Green"
+	},
+	{
+		"paID": 6422,
+		"filename": "6422.png",
+		"team": "AEK Athens"
+	},
+	{
+		"paID": 6832,
+		"filename": "6832.png",
+		"team": "Metz"
+	},
+	{
+		"paID": 6847,
+		"filename": "6847.png",
+		"team": "FC Groningen"
+	},
+	{
+		"paID": 6997,
+		"filename": "6997.png",
+		"team": "Spartak Moscow"
+	},
+	{
+		"paID": 7332,
+		"filename": "7332.png",
+		"team": "Slavia Prague"
+	},
+	{
+		"paID": 7347,
+		"filename": "7347.png",
+		"team": "Trinidad and Tobago"
+	},
+	{
+		"paID": 7724,
+		"filename": "7724.png",
+		"team": "South Africa"
+	},
+	{
+		"paID": 8004,
+		"filename": "8004.png",
+		"team": "Lokomotiv Moscow"
+	},
+	{
+		"paID": 18890,
+		"filename": "18890.png",
+		"team": "Guiseley"
+	},
+	{
+		"paID": 23418,
+		"filename": "23418.png",
+		"team": "Edinburgh City"
+	},
+	{
+		"paID": 26260,
+		"filename": "26260.png",
+		"team": "Cologne"
+	},
+	{
+		"paID": 26281,
+		"filename": "26281.png",
+		"team": "Belenenses"
+	},
+	{
+		"paID": 26318,
+		"filename": "26318.png",
+		"team": "Sporting Gijon"
+	},
+	{
+		"paID": 26354,
+		"filename": "26354.png",
+		"team": "Strasbourg"
+	},
+	{
+		"paID": 26367,
+		"filename": "26367.png",
+		"team": "Empoli"
+	},
+	{
+		"paID": 26446,
+		"filename": "26446.png",
+		"team": "Besiktas"
+	},
+	{
+		"paID": 26458,
+		"filename": "26458.png",
+		"team": "Young Boys"
+	},
+	{
+		"paID": 26468,
+		"filename": "26468.png",
+		"team": "AS Nancy"
+	},
+	{
+		"paID": 26476,
+		"filename": "26476.png",
+		"team": "Alaves"
+	},
+	{
+		"paID": 27432,
+		"filename": "27432.png",
+		"team": "Amiens"
+	},
+	{
+		"paID": 27435,
+		"filename": "27435.png",
+		"team": "Caen"
+	},
+	{
+		"paID": 27439,
+		"filename": "27439.png",
+		"team": "Troyes"
+	},
+	{
+		"paID": 27609,
+		"filename": "27609.png",
+		"team": "Pescara"
+	},
+	{
+		"paID": 27669,
+		"filename": "27669.png",
+		"team": "Palermo"
+	},
+	{
+		"paID": 27671,
+		"filename": "27671.png",
+		"team": "Carpi"
+	},
+	{
+		"paID": 27804,
+		"filename": "27804.png",
+		"team": "Las Palmas"
+	},
+	{
+		"paID": 27812,
+		"filename": "27812.png",
+		"team": "Leganes"
+	},
+	{
+		"paID": 27832,
+		"filename": "27832.png",
+		"team": "Girona"
+	},
+	{
+		"paID": 28015,
+		"filename": "28015.png",
+		"team": "Red Star Belgrade"
+	},
+	{
+		"paID": 28023,
+		"filename": "28023.png",
+		"team": "Dijon"
+	},
+	{
+		"paID": 31901,
+		"filename": "31901.png",
+		"team": "Canada"
+	},
+	{
+		"paID": 32493,
+		"filename": "32493.png",
+		"team": "Darmstadt"
+	},
+	{
+		"paID": 32713,
+		"filename": "32713.png",
+		"team": "FC Ingolstadt"
+	},
+	{
+		"paID": 32839,
+		"filename": "32839.png",
+		"team": "Angers"
+	},
+	{
+		"paID": 37285,
+		"filename": "37285.png",
+		"team": "Ivory Coast"
+	},
+	{
+		"paID": 37314,
+		"filename": "37314.png",
+		"team": "Qatar"
+	},
+	{
+		"paID": 37328,
+		"filename": "37328.png",
+		"team": "Jordan"
+	},
+	{
+		"paID": 37335,
+		"filename": "37335.png",
+		"team": "China PR"
+	},
+	{
+		"paID": 37452,
+		"filename": "37452.png",
+		"team": "Eibar"
+	},
+	{
+		"paID": 37701,
+		"filename": "37701.png",
+		"team": "Panama"
+	},
+	{
+		"paID": 38414,
+		"filename": "38414.png",
+		"team": "Rostov"
+	},
+	{
+		"paID": 38415,
+		"filename": "38415.png",
+		"team": "FC Midtjylland"
+	},
+	{
+		"paID": 38624,
+		"filename": "38624.png",
+		"team": "Crotone"
+	},
+	{
+		"paID": 41612,
+		"filename": "41612.png",
+		"team": "SPAL"
+	},
+	{
+		"paID": 42552,
+		"filename": "42552.png",
+		"team": "Benevento"
+	},
+	{
 		"paID": 43368,
 		"filename": "43368.png",
 		"team": "Maccabi Tel-Aviv"
 	},
 	{
-		"paID": 10,
-		"filename": "10.png",
-		"team": "Luton"
+		"paID": 43495,
+		"filename": "43495.png",
+		"team": "Hapoel Beer Sheva"
+	},
+	{
+		"paID": 43545,
+		"filename": "43545.png",
+		"team": "FK Karabakh"
+	},
+	{
+		"paID": 45738,
+		"filename": "45738.png",
+		"team": "Fastav Zlin"
+	},
+	{
+		"paID": 47966,
+		"filename": "47966.png",
+		"team": "Lugano"
+	},
+	{
+		"paID": 48169,
+		"filename": "48169.png",
+		"team": "Konyaspor"
+	},
+	{
+		"paID": 48792,
+		"filename": "48792.png",
+		"team": "Ajaccio GFCO"
+	},
+	{
+		"paID": 51319,
+		"filename": "51319.png",
+		"team": "Istanbul Basaksehir"
+	},
+	{
+		"paID": 51718,
+		"filename": "51718.png",
+		"team": "Frosinone"
+	},
+	{
+		"paID": 53626,
+		"filename": "53626.png",
+		"team": "Zorya"
+	},
+	{
+		"paID": 53775,
+		"filename": "53775.png",
+		"team": "Gabala"
+	},
+	{
+		"paID": 58661,
+		"filename": "58661.png",
+		"team": "Krasnodar"
+	},
+	{
+		"paID": 58671,
+		"filename": "58671.png",
+		"team": "Astana"
+	},
+	{
+		"paID": 60100,
+		"filename": "60100.png",
+		"team": "Ostersunds FK"
+	},
+	{
+		"paID": 61019,
+		"filename": "61019.png",
+		"team": "RB Leipzig"
+	},
+	{
+		"paID": 2300,
+		"filename": "2300.png",
+		"team": "UCD Dublin"
+	},
+	{
+		"paID": 7535,
+		"filename": "7535.png",
+		"team": "Sion FC"
 	}
 ]}
