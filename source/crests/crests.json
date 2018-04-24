@@ -1763,6 +1763,26 @@
 		"filename": "1660.png",
 		"team": "Switzerland"
 	},
+ 	{
+		"paID": 1590,
+		"filename": "1590.png",
+		"team": "Morocco"
+	},
+      	{
+		"paID": 8022,
+		"filename": "8022.png",
+		"team": "Saudi Arabia"
+	},
+ 	{
+		"paID": 37261,
+		"filename": "37261.png",
+		"team": "Peru"
+	},
+ 	{
+		"paID": 8112,
+		"filename": "8122.png",
+		"team": "Tunisia"
+	},
 	{
 		"paID": 1661,
 		"filename": "1661.png",
