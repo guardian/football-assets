@@ -23,6 +23,6 @@
     "grunt-aws-s3": "^0.14.0",
     "grunt-contrib-copy": "^0.8.2",
     "grunt-image-resize": "^1.0.0",
-    "grunt-pngmin": "^1.0.2"
+    "grunt-pngmin": "^1.2.0"
   }
 }
