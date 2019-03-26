@@ -16,12 +16,10 @@
   "homepage": "https://github.com/guardian/football-assets",
   "dependencies": {
     "grunt": "^1.0.4",
-    "jit-grunt": "^0.10.0"
-  },
-  "devDependencies": {
     "grunt-aws-s3": "^2.0.0",
     "grunt-contrib-copy": "^0.8.2",
     "grunt-image-resize": "^1.0.0",
-    "grunt-pngmin": "^1.2.0"
+    "grunt-pngmin": "^1.2.0",
+    "jit-grunt": "^0.10.0"
   }
 }
