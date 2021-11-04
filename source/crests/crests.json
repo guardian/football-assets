@@ -2507,5 +2507,60 @@
 		"paID": 7535,
 		"filename": "7535.png",
 		"team": "Sion FC"
+	},
+	{
+		"paID": 26473,
+		"filename": "26473.png",
+		"team": "Salernitana"
+	},
+	{
+		"paID": 26472,
+		"filename": "26472.png",
+		"team": "Venezia"
+	},
+	{
+		"paID": 41054,
+		"filename": "41054.png",
+		"team": "Clermont Foot"
+	},
+	{
+		"paID": 32099,
+		"filename": "32099.png",
+		"team": "VfL Bochum"
+	},
+	{
+		"paID": 32770,
+		"filename": "32770.png",
+		"team": "Greuther Fürth"
+	},
+	{
+		"paID": 150,
+		"filename": "150.png",
+		"team": "Sutton United"
+	},
+	{
+		"paID": 7798,
+		"filename": "7798.png",
+		"team": "Cove Rangers"
+	},
+	{
+		"paID": 16277,
+		"filename": "16277.png",
+		"team": "Kelty Hearts"
+	},
+	{
+		"paID": 57557,
+		"filename": "57557.png",
+		"team": "Leicester City Women"
+	},
+	{
+		"paID": 7071,
+		"filename": "7071.png",
+		"team": "Brøndby"
+	},
+	{
+		"paID": 7016,
+		"filename": "7016.png",
+		"team": "Ferencvaros"
 	}
 ]}
