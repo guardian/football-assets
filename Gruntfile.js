@@ -76,5 +76,8 @@ module.exports = function(grunt) {
 
     // Tasks
     grunt.registerTask('default', ['copy', 'image_resize', 'pngmin', 'aws_s3']);
+
+    grunt.registerTask('prepare', ['copy', 'image_resize', 'pngmin']);    
+    grunt.registerTask('upload', ['aws_s3']);
     
 };
