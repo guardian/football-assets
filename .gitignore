@@ -2,3 +2,4 @@
 aws-keys.json
 /build
 /node_modules
+.idea/
