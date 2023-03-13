@@ -1,9 +1,10 @@
 {
 	"name": "football-assets",
 	"version": "1.0.0",
+	"type": "module",
 	"scripts": {
-		"prepare": "npx ts-node football-assets.ts",
-		"deploy": "AWS_PROFILE=frontend npx ts-node football-assets.ts --upload",
+		"prepare": "npx ts-node --esm football-assets.ts",
+		"deploy": "AWS_PROFILE=frontend npx ts-node --esm football-assets.ts --upload",
 		"prettier": "npx prettier --write football-assets.ts"
 	},
 	"repository": {

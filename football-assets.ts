@@ -38,37 +38,35 @@ const upload = async (s3: S3Client, path: string) => {
 	await s3.send(command);
 };
 
-(async () => {
-	const startTime = Date.now();
-	console.log('🗑️  clearing old build files!');
-	await fs.rm('build', { recursive: true, force: true });
+const startTime = Date.now();
+console.log('🗑️  clearing old build files!');
+await fs.rm('build', { recursive: true, force: true });
 
-	console.log('📁 creating output folders.');
-	await fs.mkdir('build/crests/120', { recursive: true });
-	await fs.mkdir('build/crests/60', { recursive: true });
+console.log('📁 creating output folders.');
+await fs.mkdir('build/crests/120', { recursive: true });
+await fs.mkdir('build/crests/60', { recursive: true });
 
-	console.log('📋 copying source files to output folder.');
-	await fs.cp('source', 'build', { recursive: true });
+console.log('📋 copying source files to output folder.');
+await fs.cp('source', 'build', { recursive: true });
 
-	console.log('🪄  compressing and resizing images.');
+console.log('🪄  compressing and resizing images.');
 
-	const files = (await fs.readdir('source/crests/'))
-		.filter((file) => file.endsWith('.png'))
-		.map(processFile);
+const files = (await fs.readdir('source/crests/'))
+    .filter((file) => file.endsWith('.png'))
+    .map(processFile);
 
-	await Promise.all(files);
+await Promise.all(files);
 
-	if (shouldUpload) {
-		console.log('🪣  uploading files to S3 bucket.');
+if (shouldUpload) {
+    console.log('🪣  uploading files to S3 bucket.');
 
-		const s3 = new S3Client({
-			region: 'eu-west-1',
-		});
+    const s3 = new S3Client({
+        region: 'eu-west-1',
+    });
 
-		const files = await walk('build');
+    const files = await walk('build');
 
-		await Promise.all(files.map((file) => upload(s3, file)));
-	}
+    await Promise.all(files.map((file) => upload(s3, file)));
+}
 
-	console.log(`✨ done in ${Date.now() - startTime}ms`);
-})();
+console.log(`✨ done in ${Date.now() - startTime}ms`);
