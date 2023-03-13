@@ -8,10 +8,8 @@ const shouldUpload = process.argv.includes('--upload');
 const processFile = async (file: string) => {
 	const contents = await fs.readFile(`source/crests/${file}`);
 
-	const pipeline = sharp(contents).png({ quality: 85});
-
-	pipeline.clone().resize(120).toFile(`build/crests/120/${file}`);
-	pipeline.clone().resize(60).toFile(`build/crests/60/${file}`);
+	sharp(contents).resize({ width: 120 }).png({ quality: 50}).toFile(`build/crests/120/${file}`);
+	sharp(contents).resize({ width: 60 }).png({ quality: 50}).toFile(`build/crests/60/${file}`);
 };
 
 const walk = async (path: string): Promise<string[]> => {
