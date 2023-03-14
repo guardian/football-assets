@@ -5,13 +5,19 @@ The source of all football assets used on The Guardian and scripts to easily com
 
 ## Install
 
-This requires ImageMagick, if you don't have it install with `brew install imagemagick`
-
 Make sure you have `frontend` Janus credentials.
 
 You will also need [Node.js](https://nodejs.org).
 
 Get dependencies by running `npm install`. 
+
+## Preview
+
+```bash
+$ npm run prepare
+```
+
+Resized images can be found in `build/`
 
 ## Deploy
 
