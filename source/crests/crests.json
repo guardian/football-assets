@@ -1,4 +1,49 @@
 { "crests": [ {
+		"paID": 36642,
+		"filename": "36642.png",
+		"team": "Republic of Ireland"
+	},
+	{
+		"paID": 55201,
+		"filename": "55201.png",
+		"team": "Vietnam"
+	},
+	{
+		"paID": 60670,
+		"filename": "60670.png",
+		"team": "Colombia"
+	},
+	{
+		"paID": 64604,
+		"filename": "64604.png",
+		"team": "Zambia"
+	},
+	{
+		"paID": 65299,
+		"filename": "65299.png",
+		"team": "Philippines"
+	},
+	{
+		"paID": 65300,
+		"filename": "65300.png",
+		"team": "Morocco"
+	},
+	{
+		"paID": 65301,
+		"filename": "65301.png",
+		"team": "Costa Rica"
+	},
+	{
+		"paID": 65361,
+		"filename": "65361.png",
+		"team": "Haiti"
+	},
+	{
+		"paID": 65362,
+		"filename": "65362.png",
+		"team": "Panama"
+	},
+	{
 		"paID": 26415,
 		"filename": "26415.png",
 		"team": "Aalborg Fodbold"
