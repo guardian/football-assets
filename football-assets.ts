@@ -16,6 +16,10 @@ const walk = async (path: string): Promise<string[]> => {
 	let files: string[] = [];
 
 	for (const file of await fs.readdir(path)) {
+		// Don't include hidden files
+		if (file.startsWith('.')) {
+			continue;
+		}
 		const newFile = join(path, file);
 		const isDirectory = (await fs.stat(newFile)).isDirectory();
 		const newFiles = isDirectory ? await walk(newFile) : [newFile];
