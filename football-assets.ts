@@ -53,11 +53,11 @@ await fs.cp('source', 'build', { recursive: true });
 
 console.log('🪄  compressing and resizing images.');
 
-const files = (await fs.readdir('source/crests/'))
+const imageFiles = (await fs.readdir('source/crests/'))
     .filter((file) => file.endsWith('.png'))
     .map(processFile);
 
-await Promise.all(files);
+await Promise.all(imageFiles);
 
 if (shouldUpload) {
     console.log('🪣  uploading files to S3 bucket.');
@@ -66,9 +66,9 @@ if (shouldUpload) {
         region: 'eu-west-1',
     });
 
-    const files = await walk('build');
+    const filesToUpload = await walk('build');
 
-    await Promise.all(files.map((file) => upload(s3, file)));
+    await Promise.all(filesToUpload.map((file) => upload(s3, file)));
 }
 
 console.log(`✨ done in ${Date.now() - startTime}ms`);
